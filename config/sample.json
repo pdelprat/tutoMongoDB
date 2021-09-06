@@ -1,0 +1,5 @@
+{
+  "mongoDB": {
+    "url": "mongodb://username:password@db.dp-tuto.com:27017/tiDB?authSource=tiDB&readPreference=primary&appname=tutoMongoDB&directConnection=true&ssl=false"
+  }
+}
